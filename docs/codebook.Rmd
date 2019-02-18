@@ -1,0 +1,20 @@
+---
+title: "Codebook - Case 1"
+author: "Nicolas Robinson-Garcia"
+date: "8 de febrero de 2019"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Research question:** How do researchers organize themselves and distribute tasks internally?
+
+## Screening
+
+The following network includes all researchers identified using a author name disambiguation algorithm (Caron & van Eck, 2014) whose main organization is TU Delft and have published at least 5 publications in collaboration with other institutional partners between 2008 and 2017.
+
+![Overall collaboration network of TU Delft 2008-2017 perio](figs/tu-collab-all.png)
