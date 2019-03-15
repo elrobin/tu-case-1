@@ -6,6 +6,7 @@ output:
   pdf_document:
     keep_tex: true
 ---
+Introduction and lit review should lead to the model we propose. Hence all aspects of the model should be reviewed in the paper. Maybe more than a literature review is an Antecedents, or it is more than one section.
 
 ## 1. Introduction
 
@@ -54,9 +55,12 @@ Look into Evaluative Inquiry
 ### Effects of evaluation on research careers: Some evidences
 
 Abramo, G., D'Angelo, C. A., & Rosati, F. (2015). The determinants of academic career advancement: Evidence from Italy. Science and Public Policy, 42(6), 761-774. https://doi.org/10.1093/scipol/scu086
+
 Luukkonen, T., & Thomas, D. A. (2016). The 'Negotiated Space' of University Researchers' Pursuit of a Research Agenda. Minerva, 54(1), 99-127. https://doi.org/10.1007/s11024-016-9291-z
+
 #### Career trajectories
 Stephan & Levin -> In terms of productivity peaks and decline
+
 Laudel, G., Bielick, J., & Gläser, J. (2018). 'Ultimately the question always is: "What do I have to do to do it right?"' Scripts as explanatory factors of career decisions. Human Relations, 0018726718786550. https://doi.org/10.1177/0018726718786550
 
 ### Evaluation models of scientific activity
@@ -255,9 +259,16 @@ In this case, the selection of the seed researcher was not based on network indi
 
 ## Expansion from seed to complete team
 
-Based on the six individuals selected in the first phase. I know search for their complete research team. Here I include for each case how I have proceeded.
+Based on the six individuals selected in the first phase. I know search for their complete research team. The data retrieval process started on  March, 2019. Here I include for each case how I have proceeded.
 
 ### Physics & Engineering - TU Delft
 
 Dr. Ir. F.D. Tichelaar belongs to the National Centre for High Resolution Electron Microscopy. According to its website, he is not the head of the institute which is formed by 9 researchers (5 staff and 4 researchers and post docs)
 
+### Physics & Engineering - Leiden Univ
+
+Prof. Ewine van Dishoeck belongs to the Leiden Observatory. According to its website, there are 179 workers: 33 are staff members, 50 postdocs, 63 PhD students and 26 supporting staff.
+
+### Biomedical Sciences - TU Delft
+
+Harrie H. Weinans is associate professor at UMC Utrecht in the department of Orthopaedics and Professor at TU Delft at the Biomechanical Engineering department. Here information is gathered from TU Delft. He is a parttime professor. Here I will not include the whole department, but only researchers working on the Biomaterials & Tissue Biomechanics group
