@@ -1,5 +1,5 @@
 ---
-title: "Codebook - How does team science work?"
+title: "Unveiling the ecosystem of science"
 author: "Nicolas Robinson-Garcia"
 date: "February 19, 2019"
 output: 
@@ -7,60 +7,131 @@ output:
     keep_tex: true
 ---
 
-I look at what happens descriptively but also considering trajectories. I have the impression that I should rethink how I want to go on with this. Which specific aspects I want to show and what is the story I'd like to tell. Diana's way of writing is very impulsive and I do not know if that is the way I'd like to go about this.
+## 1. Introduction
 
-If the purpose of this is to show how profiles co-exist, maybe I should (based on my seed scholars), start to profile researchers and then maybe do it by periods.
+The ecosystem of science is defined as a system with interconnected entities integrated in a larger social system with which a bidirectional influence is exerted. Scientists, as drivers of the research enterprise, are immersed in an increasingly diverse set of tasks and activities with the purpose of producing, communicating and transferring knowledge to society. This involves a series of skills which go beyond their intellectual or technical capabilities. These additional tasks relate to each of the activities they are involved in: production, communication and transference of new knowledge. They must distribute tasks and specialize, collaborate with their peers, train younger scholars and build research teams to enhance their production capabilities. They must interact and engage with non-academic actors to identify gaps of knowledge, apply their research output on societal challenges and communicate their findings in a responsible and efficient manner.
 
-## 1. Is there team science? 
-### 1.1 Are these teams stable over time?
+These different activities are rarely undertaken by the same individual. There is distribution of roles, converting research into a collaborative enterprise, where different profiles of researchers emanate from their specialization on specific roles. Furthermore, individuals are involved in different roles depending on their career stage, the characteristics of their research field or the peers with whom they collaborate. While a senior scientist will be involved in PhD supervision, research assistants may undertake data collection tasks. Historians may not focus on knowledge transference as much and civil engineers but might engage on social outreach. A statistician may be giving methodological support when collaborating with physicians but might be involved in theoretical discussions when collaborating with mathematicians. In all, these roles are not fixed and can evolve with time and change due to context.
 
-Variables needed from WoS:
+This diversification of roles affects authorship and acknowledgement of research outputs, favoring certain profiles over others. Evaluation schemes are mostly (if not exclusively) focused on research outputs and citation impact. This has led to a series of claims as to how current evaluation schemes are threatening diversity of profiles and roles, and ultimately, the ecosystem of science. These claims are discussed below.
 
--	Cluster_id
--	All classic bibliometric indicators
--	Number of collaborators from same institution
--	Number of external collaborators
--	Number of collaborators from same institution by publication
--	Number of external collaborators by publication
+**Claim 1: Evaluation schemes rely solely on journal publication and citation-based indicators.**
 
-### 1.2 Is there activity visible through co-authorship?
-Check groups identified with manual checking in the web and maybe interviews
+-	What do evaluation systems state they want from individuals?
+-	What is their actual criteria?
+-	Supporting evidence: DORA Declaration
 
-## 2. Do research teams operate in a coordinated way?
+**Claim 2: Publications offer a partial view of researchers' outcomes.**
 
-Here it would be interesting to understand dependence relationship. Nederhof & van Raan (1993) refer to the star effects as what happens when a PI retires and the research group disappears.
-Here we should go beyond bibliometrics and see if there is someone in charge of the funding, someone of hiring and finding opportunities, someone who is more of a public face, etc.
-Also it would be interesting to use network analysis to determine authorities, hubs, etc. and contrast with their judgment
-Variables needed from WoS: 
+-	What do researchers do?
+-	How they organize their time?
+-	Which are their outcomes?
 
--	Authorship position.
--	Acknowledgments data
--	Clusters from Ludo's subject classification to identify areas of specialization per subject.
+**Claim 3: Invisible profiles are becoming more necessary than ever but are being kicked out of the system.**
 
-Combine this with interviews plus manually checking for:
+-	How do they distribute tasks?
+-	How do they negotiate authorship?
+-	How do they allocate credit and prestige
+-	Supporting evidence: Milojevic et al. PNAS (2018) publication.
 
-- Social media activity
-- Google Scholar data
+## 2. Lit review
 
-This is done to check for social engagement profiles
+## Stratification and diversity of scientific profiles
 
-### 2.1 Do they have a common research agenda?
+Examples of dimensions can be given from the book by Bastow, Tinkler & Dunleavy (2014)
 
-### 2.2 How is this agenda established?
+Bozeman, Dietz & Gaughan (2001) present their evaluation model at the individual level as follows:
 
-## 3. How does team science affect individual trajectories?
+-	Internal resources: cognitive skills (this can be criticized as it is impossible to operationalize as they present it i.e., ability to synthesize), S&T knowledge and context skills (learnt through experience). The authors indicate that each resource may have n dimensions.
+-	S&T Capital: Which has to do with the network of scientists and the intrinsic value they have as well as the role the individual plays in such network
+-	S&T Human Capital and Life Cycles: The authors recognize that researchers' profile will be different at different stages of their career.
+-	Corley et al (2017) introduce a cultural dimension to the model which refers to variables such as gender, nationality, race, discipline or socio-economic status. 
 
-### 3.1 How is credit shared?
+ACUMEN presents a portfolio, a kind of CV format designed for assessing individual performance. It combines qualitative and quantitative information. It offers space for a narrative where an individual tells her own story. It then distinguishes between three aspects of an academic's career: expertise (methods, areas of theory, etc.), outputs (publications, patents, etc.) and impacts (citations, awards, etc.). Furthermore, it includes an individual's age. For these three aspects it includes quantitative indicators. The perspective here is that individuals report their CV and the ACUMEN portfolio basically structures and offers recommendations on how this should be provided. Other than that it does not give clear indications on how the assessment should be performed, it seems to rely on experts' judgment.
+Look into Whitley
+Look into Evaluative Inquiry
 
-### 3.2 What is the relation between the role exerted and academic status?
+### Effects of evaluation on research careers: Some evidences
 
-Cohort analysis?
+Abramo, G., D'Angelo, C. A., & Rosati, F. (2015). The determinants of academic career advancement: Evidence from Italy. Science and Public Policy, 42(6), 761-774. https://doi.org/10.1093/scipol/scu086
+Luukkonen, T., & Thomas, D. A. (2016). The 'Negotiated Space' of University Researchers' Pursuit of a Research Agenda. Minerva, 54(1), 99-127. https://doi.org/10.1007/s11024-016-9291-z
+#### Career trajectories
+Stephan & Levin -> In terms of productivity peaks and decline
+Laudel, G., Bielick, J., & Gläser, J. (2018). 'Ultimately the question always is: "What do I have to do to do it right?"' Scripts as explanatory factors of career decisions. Human Relations, 0018726718786550. https://doi.org/10.1177/0018726718786550
 
-### 3.2 How is continuity of supporting scientists ensured?
+### Evaluation models of scientific activity
 
-Probably also from interviews. How do scholars change from institution or are maintained if they are not able to 'make the next step'.
+| Evaluation model |	Output/outcome |	Unit of analysis | References |
+|------------------|-----------------|-------------------|------------|
+|Bibliometric assessment |	Production and impact	| Scalable | |
+|Economic analysis |                 | | |
+|Knowledge value alliances | |	Communities of scholars (e.g., labs) | Bozeman & Rogers |
+|Research portfolios | Journal articles? | | Wallace & Rafols, 2015 |
+|Productive interactions | Process-oriented | Research projects | Spaape & van Drooge, 2011 |
+|S&T Human Capital | | Scalable | Bozeman, Dietz & Gaughan, 2001 |
 
-## 4. Data and methods
+## 3. Methodological framework
+
+### Evaluative dimensions
+
+#### Scientific engagement
+Collaboration ties and diversity (number of unique collaborators and intensity), position in network, (co-authorship, acknowledgment, etc.), strength of tie?, interdisciplinarity, application of research, member of committees, reviewer, etc.
+Social engagement
+Non-academic collaboration ties (either through publications or not i.e., reference patterns), some altmetric indicators (policy briefs but also maybe twitter classes? Or potentially Ed's ABC score), spin-offs,
+Capacity-building
+Productivity, leadership, independence, scientific impact, funding
+Trajectory/Background?
+Geographic mobility, cognitive mobility, sectoral mobility (These last three could be seen not as attributes to the researcher but their capacity to work with diverse people), career status
+Research practices (Cross-sectoral)
+OA publications, data sharing, outreach (e.g., The Conversation, blogging, tweeting), publication of working papers, proceedings, mentoring
+Some references
+Alperin, J. P., Nieves, C. M., Schimanski, L., Fischman, G. E., Niles, M. T., & McKiernan, E. C. (2018). How significant are the public dimensions of faculty work in review, promotion, and tenure documents? Recuperado de https://hcommons.org/deposits/item/hc:21015/
+July 3rd, researchers, 2018|Early career, education, H., science, O., evaluation, R., & Comment, R. policy|1. (2018, julio 3). Making research evaluation processes in Europe more transparent. Recuperado 20 de febrero de 2019, de https://blogs.lse.ac.uk/impactofsocialsciences/2018/07/03/making-research-evaluation-processes-in-europe-more-transparent/
+Schimanski, L. A., & Alperin, J. P. (2018). The evaluation of scholarship in academic promotion and tenure processes: Past, present, and future. F1000Research, 7, 1605. https://doi.org/10.12688/f1000research.16493.1
+
+#### Confounding effects
+
+#### Personal features
+
+Order dimensions from time independent to dependent.
+Features within dimensions
+
+## 4. Results
+
+-	Showcase dimensions for research teams or labs -> Internal organization and division of labor
+-	Showcase dimensions life cycles -> Different stages in career
+-	Attribution Plos One -> Scientific engagement
+-	Differences on profiles by fields.
+-	Agencies
+
+\pagebreak
+
+# Codebook
+
+Here I describe the selection of case studies and the data retrieval process and description of sources. The purpose of this is to show that 1) there are indeed a variety of different profiles, 2) these profiles co-exist and complement each other, 3) the diversity and typologies of profiles is field dependent, 4) personal features are key to understand this diversity. Here we emphasize two specific personal features: age and gender. Some of the research questions that could be answered descriptively are the following:
+
+1. *Is there team science?*
+  i. *Are these teams stable over time?* Some data that could be retrieved from WoS
+  
+    -	Cluster_id
+    -	All classic bibliometric indicators
+    -	Number of collaborators from same institution
+    -	Number of external collaborators
+    -	Number of collaborators from same institution by publication
+    -	Number of external collaborators by publication
+    
+  ii. *Is there activity visible through co-authorship?* Check groups identified with manual checking in the web and maybe interviews
+
+2. *Do research teams operate in a coordinated way?* Here it would be interesting to understand dependence relationship. Nederhof & van Raan (1993) refer to the star effects as what happens when a PI retires and the research group disappears. Here we should go beyond bibliometrics and see if there is someone in charge of the funding, someone of hiring and finding opportunities, someone who is more of a public face, etc. Also it would be interesting to use network analysis to determine authorities, hubs, etc. and contrast with their judgment. Some variables from WoS and interivews plus manually cheking: authorship position (WoS); acknowledgments data (WoS); clusters from Ludo's subject classification to identify areas of specialization per subject (WoS); social media activity; Google Scholar data.
+  i. *Do they have a common research agenda?*
+  ii. *How is this agenda established?*
+
+3. *How does team science affect individual trajectories?*
+  i. *How is credit shared?*
+  ii. *What is the relation between the role exerted and academic status?* A cohort analysis?
+  iii. *How is continuity of supporting scientists ensured?* Probably also from interviews. How do scholars change from institution or are maintained if they are not able to 'make the next step'.
+
+## Selection of case studies
 
 The identification of research groups is done bibliometrically and based on Web of Science publications. For this I have selected all publications between 2008 and 2017 by LUMC, Leiden University or TU Delft. The following table includes some descriptives. Here I must note that researchers belonging to institutions are not based on the specific affiliation linkage of docs (which uses the Leiden Ranking affiliation already cleaned up), but based on `cluster_id` with either of the three institutions as their main or alternative address. This should be checked to see if there is a way to link to the `cluster_id` organizations to the cleaned affiliations from Leiden Ranking. I had to clean up this data myself. In any case this should not be a concern for the selection of case studies.
 
@@ -77,10 +148,8 @@ The identification of research groups is done bibliometrically and based on Web 
 The next figure shows the distribution of papers based on the number of authors by paper (A) and the thematic profile of each of the three institutions. Leiden University is the largest of the three institutions with a more comprehensive portfolio, although mostly focues on Biomedical Sciences and Social Sciences. This focus on biomedical sciences is obviously more noticeable in the case of LUMC, although it still has some pubications in fields of the social sciences, mostly related with Public Health. Finally, TU Delft shows a profile focused on Phisics, Engineering and Mathematics. While there might be an overlap between LUMC and Leiden University, the high preponderance of biomedical literature might also be due to a close relation between these universities.
 
 ```{r echo=FALSE}
-knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/histogram-profiles.png", dpi = 125)
+knitr::include_graphics("figs/histogram-profiles.png", dpi = 125)
 ```
-
-### 4.1 Selection of case studies
 
 Six case studies will be selected. Three for each university and two by field. The purpose of this is not only to identify differences by discipline but also by institutional type. The fields are:
 
@@ -90,11 +159,11 @@ Six case studies will be selected. Three for each university and two by field. T
 
 Following I include the collaboration networks for each university and field. I have included a threshold of at least 10 publications by `cluster_id`, filtered by the giant component and calculated the betweenness centrality of each node. I have selected as seed researcher the one with the highest centrality.
 
-#### Physics & Engineering
-##### 1. TU Delft
+### Physics & Engineering
+#### 1. TU Delft
 
 ```{r echo=FALSE}
-knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/tu_phys_betweenness.png", dpi = 300)
+knitr::include_graphics("figs/tu_phys_betweenness.png", dpi = 125)
 ```
 
 *Notes:*
@@ -105,10 +174,10 @@ knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/tu_phys_bet
 - PURE: https://pure.tudelft.nl/portal/en/persons/fd-tichelaar(56299c58-b6ec-478b-b188-b8744b69d954).html
 - Institution: http://nchrem.nl/people/dr-ir-f-d-tichelaar-frans/
 
-##### 2. Leiden Univ
+#### 2. Leiden Univ
 
 ```{r echo=FALSE}
-knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/lu_phys_betweenness.png", dpi = 300)
+knitr::include_graphics("figs/lu_phys_betweenness.png", dpi = 300)
 ```
 
 *Notes:*
@@ -119,12 +188,12 @@ knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/lu_phys_bet
 - Institution: https://local.strw.leidenuniv.nl/people/touchscreen2/persinline.php?id=16
 - Personal website: https://home.strw.leidenuniv.nl/~ewine/
 
-#### Biomedical and Health Sciences
+### Biomedical and Health Sciences
 
-##### 1. TU Delft
+#### 1. TU Delft
 
 ```{r echo=FALSE}
-knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/tu_bio_betweenness.png", dpi = 300)
+knitr::include_graphics("figs/tu_bio_betweenness.png", dpi = 300)
 ```
 
 *Notes:*
@@ -136,10 +205,10 @@ knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/tu_bio_betw
 - PURE: https://pure.tudelft.nl/portal/en/persons/hh-weinans(f31bd75b-1863-4202-b64b-7356538284a7)/publications.html
 - Co-affiliated to UMC Utrecht and TU Delft.
 
-##### 2. Leiden Univ
+#### 2. Leiden Univ
 
 ```{r echo=FALSE}
-knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/lu_bio_betweenness.png", dpi = 300)
+knitr::include_graphics("figs/lu_bio_betweenness.png", dpi = 300)
 ```
 
 *Notes:*
@@ -151,12 +220,12 @@ knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/lu_bio_betw
 - Institution: https://www.lumc.nl/org/bds/medewerkers/rwolterbeek
 - Affiliated to LUMC.
 
-#### Social Sciences and Humanities
+### Social Sciences and Humanities
 
-##### 1. TU Delft
+#### 1. TU Delft
 
 ```{r echo=FALSE}
-knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/tu_soc_betweenness.png", dpi = 300)
+knitr::include_graphics("figs/tu_soc_betweenness.png", dpi = 300)
 ```
 
 *Notes:*
@@ -167,10 +236,10 @@ knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/tu_soc_betw
 - Google Profile: https://scholar.google.es/citations?user=dYUiqMYAAAAJ&hl=en
 - Institution: https://www.tudelft.nl/en/tpm/about-the-faculty/departments/engineering-systems-and-services/people/full-professors/profdr-gp-bert-van-wee/
 
-##### 2. Leiden Univ
+#### 2. Leiden Univ
 
 ```{r echo=FALSE}
-knitr::include_graphics("C:/Users/Usuario/Documents/R/tu-case-1/figs/lu_soc_betweenness.png", dpi = 300)
+knitr::include_graphics("figs/lu_soc_betweenness.png", dpi = 300)
 ```
 
 *Notes:*
@@ -183,3 +252,12 @@ In this case, the selection of the seed researcher was not based on network indi
 - Institution: https://www.universiteitleiden.nl/en/staffmembers/judi-mesman/publications#tab-1
 - Lab1: http://www.diversityinparenting.nl/
 - Lab2: https://www.societalchallengeslab.com/
+
+## Expansion from seed to complete team
+
+Based on the six individuals selected in the first phase. I know search for their complete research team. Here I include for each case how I have proceeded.
+
+### Physics & Engineering - TU Delft
+
+Dr. Ir. F.D. Tichelaar belongs to the National Centre for High Resolution Electron Microscopy. According to its website, he is not the head of the institute which is formed by 9 researchers (5 staff and 4 researchers and post docs)
+
