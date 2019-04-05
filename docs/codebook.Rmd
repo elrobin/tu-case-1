@@ -1,14 +1,27 @@
 ---
-title: "Unveiling the ecosystem of science"
-author: "Nicolas Robinson-Garcia"
-date: "February 19, 2019"
-output: 
-  pdf_document:
-    keep_tex: true
+title: "Unveiling the ecosystem of science: Towards an integrative valuation model on the many roles of scientists"
+author: 
+  - name: Nicolas Robinson-Garcia
+    email: elrobinster@gmail.com
+    affiliation: a
+    footnote: Corresponding Author
+  - name: Rodrigo Costas
+    affiliation: b
+  - name: Thed N. van Leeuwen
+    affiliation: b
+  - name: Tina Nane
+    affiliation: a
+address:
+  - code: a
+    address: Applied Mathematics (DIAM), TU Delft, Delft, Netherlands
+  - code: b
+    address: CWTS, Leiden University, Leiden, Netherlands
+abstract: In progress
+output: rticles::elsevier_article
 ---
 Introduction and lit review should lead to the model we propose. Hence all aspects of the model should be reviewed in the paper. Maybe more than a literature review is an Antecedents, or it is more than one section.
 
-## 1. Introduction
+# 1. Introduction
 
 The ecosystem of science is defined as a system with interconnected entities integrated in a larger social system with which a bidirectional influence is exerted. Scientists, as drivers of the research enterprise, are immersed in an increasingly diverse set of tasks and activities with the purpose of producing, communicating and transferring knowledge to society. This involves a series of skills which go beyond their intellectual or technical capabilities. These additional tasks relate to each of the activities they are involved in: production, communication and transference of new knowledge. They must distribute tasks and specialize, collaborate with their peers, train younger scholars and build research teams to enhance their production capabilities. They must interact and engage with non-academic actors to identify gaps of knowledge, apply their research output on societal challenges and communicate their findings in a responsible and efficient manner.
 
@@ -35,7 +48,7 @@ This diversification of roles affects authorship and acknowledgement of research
 -	How do they allocate credit and prestige
 -	Supporting evidence: Milojevic et al. PNAS (2018) publication.
 
-## 2. Lit review
+# 2. Lit review
 
 ## Stratification and diversity of scientific profiles
 
@@ -49,7 +62,9 @@ Bozeman, Dietz & Gaughan (2001) present their evaluation model at the individual
 -	Corley et al (2017) introduce a cultural dimension to the model which refers to variables such as gender, nationality, race, discipline or socio-economic status. 
 
 ACUMEN presents a portfolio, a kind of CV format designed for assessing individual performance. It combines qualitative and quantitative information. It offers space for a narrative where an individual tells her own story. It then distinguishes between three aspects of an academic's career: expertise (methods, areas of theory, etc.), outputs (publications, patents, etc.) and impacts (citations, awards, etc.). Furthermore, it includes an individual's age. For these three aspects it includes quantitative indicators. The perspective here is that individuals report their CV and the ACUMEN portfolio basically structures and offers recommendations on how this should be provided. Other than that it does not give clear indications on how the assessment should be performed, it seems to rely on experts' judgment.
+
 Look into Whitley
+
 Look into Evaluative Inquiry
 
 ### Effects of evaluation on research careers: Some evidences
@@ -58,12 +73,16 @@ Abramo, G., D'Angelo, C. A., & Rosati, F. (2015). The determinants of academic c
 
 Luukkonen, T., & Thomas, D. A. (2016). The 'Negotiated Space' of University Researchers' Pursuit of a Research Agenda. Minerva, 54(1), 99-127. https://doi.org/10.1007/s11024-016-9291-z
 
-#### Career trajectories
+### Career trajectories
 Stephan & Levin -> In terms of productivity peaks and decline
 
 Laudel, G., Bielick, J., & Gläser, J. (2018). 'Ultimately the question always is: "What do I have to do to do it right?"' Scripts as explanatory factors of career decisions. Human Relations, 0018726718786550. https://doi.org/10.1177/0018726718786550
 
-### Evaluation models of scientific activity
+### Valuation models of scientific activity
+
+I have changed the name of the section to valuation so that it alignes with the ISSI poster. This means that the variables considered in the table should also be modified and reflect on the aspects valued by each of these models.
+
+Interesting the model presented by Boyer (1990) and used in the paper by Herman & Nicholas (2019) published in El profesional de la información. Furthermore, should consider the term *facet* instead of referring to *dimensions*, it might be more accurate.
 
 | Evaluation model |	Output/outcome |	Unit of analysis | References |
 |------------------|-----------------|-------------------|------------|
@@ -74,33 +93,45 @@ Laudel, G., Bielick, J., & Gläser, J. (2018). 'Ultimately the question always i
 |Productive interactions | Process-oriented | Research projects | Spaape & van Drooge, 2011 |
 |S&T Human Capital | | Scalable | Bozeman, Dietz & Gaughan, 2001 |
 
-## 3. Methodological framework
+# 3. Methodological framework
 
-### Evaluative dimensions
+## Evaluative dimensions
 
-#### Scientific engagement
+### Scientific engagement
 Collaboration ties and diversity (number of unique collaborators and intensity), position in network, (co-authorship, acknowledgment, etc.), strength of tie?, interdisciplinarity, application of research, member of committees, reviewer, etc.
+
 Social engagement
+
 Non-academic collaboration ties (either through publications or not i.e., reference patterns), some altmetric indicators (policy briefs but also maybe twitter classes? Or potentially Ed's ABC score), spin-offs,
+
 Capacity-building
+
 Productivity, leadership, independence, scientific impact, funding
+
 Trajectory/Background?
+
 Geographic mobility, cognitive mobility, sectoral mobility (These last three could be seen not as attributes to the researcher but their capacity to work with diverse people), career status
+
 Research practices (Cross-sectoral)
+
 OA publications, data sharing, outreach (e.g., The Conversation, blogging, tweeting), publication of working papers, proceedings, mentoring
+
 Some references
+
 Alperin, J. P., Nieves, C. M., Schimanski, L., Fischman, G. E., Niles, M. T., & McKiernan, E. C. (2018). How significant are the public dimensions of faculty work in review, promotion, and tenure documents? Recuperado de https://hcommons.org/deposits/item/hc:21015/
+
 July 3rd, researchers, 2018|Early career, education, H., science, O., evaluation, R., & Comment, R. policy|1. (2018, julio 3). Making research evaluation processes in Europe more transparent. Recuperado 20 de febrero de 2019, de https://blogs.lse.ac.uk/impactofsocialsciences/2018/07/03/making-research-evaluation-processes-in-europe-more-transparent/
+
 Schimanski, L. A., & Alperin, J. P. (2018). The evaluation of scholarship in academic promotion and tenure processes: Past, present, and future. F1000Research, 7, 1605. https://doi.org/10.12688/f1000research.16493.1
 
-#### Confounding effects
+### Confounding effects
 
-#### Personal features
+### Personal features
 
 Order dimensions from time independent to dependent.
 Features within dimensions
 
-## 4. Results
+# 4. Results
 
 -	Showcase dimensions for research teams or labs -> Internal organization and division of labor
 -	Showcase dimensions life cycles -> Different stages in career
@@ -152,7 +183,7 @@ The identification of research groups is done bibliometrically and based on Web 
 The next figure shows the distribution of papers based on the number of authors by paper (A) and the thematic profile of each of the three institutions. Leiden University is the largest of the three institutions with a more comprehensive portfolio, although mostly focues on Biomedical Sciences and Social Sciences. This focus on biomedical sciences is obviously more noticeable in the case of LUMC, although it still has some pubications in fields of the social sciences, mostly related with Public Health. Finally, TU Delft shows a profile focused on Phisics, Engineering and Mathematics. While there might be an overlap between LUMC and Leiden University, the high preponderance of biomedical literature might also be due to a close relation between these universities.
 
 ```{r echo=FALSE}
-knitr::include_graphics("figs/histogram-profiles.png", dpi = 125)
+knitr::include_graphics("figs/histogram-profiles.png", dpi = 300)
 ```
 
 Six case studies will be selected. Three for each university and two by field. The purpose of this is not only to identify differences by discipline but also by institutional type. The fields are:
@@ -167,7 +198,7 @@ Following I include the collaboration networks for each university and field. I 
 #### 1. TU Delft
 
 ```{r echo=FALSE}
-knitr::include_graphics("figs/tu_phys_betweenness.png", dpi = 125)
+knitr::include_graphics("figs/tu_phys_betweenness.png", dpi = 300)
 ```
 
 *Notes:*
