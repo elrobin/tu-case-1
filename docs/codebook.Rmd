@@ -1,5 +1,5 @@
 ---
-title: "Unveiling the ecosystem of science: Towards an integrative valuation model on the many roles of scientists"
+title: "Unveiling the ecosystem of science: Towards an integrative valuation model of the many roles of scientists"
 author: 
   - name: Nicolas Robinson-Garcia
     email: elrobinster@gmail.com
