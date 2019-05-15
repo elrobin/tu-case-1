@@ -16,7 +16,7 @@ address:
     address: Applied Mathematics (DIAM), TU Delft, Delft, Netherlands
   - code: b
     address: CWTS, Leiden University, Leiden, Netherlands
-abstract: In progress
+abstract: There is an increasing volume of studies, reports and manifestos pointing out that the current scientific reward system misuses and abuses of quantitative indicators, mainly publication and citation-based metrics. Alternatively, more qualitative approaches, use of case studies or the design of indicators more sensitive to societal and scientific needs have been suggested. In this article we analyze the bases of such criticisms and motivations for changing the reward system by focusing on the assessment of individuals. We explore alternative models proposed or in use and identify common characteristics. Based on this we propose a valuation model by which we can systematically organize and prioritize performative aspects of scientists and consider other factors which may affect or might relevant for research policy. We finally test our model in a series of case studies based on six academic units.
 output: rticles::elsevier_article
 ---
 Introduction and lit review should lead to the model we propose. Hence all aspects of the model should be reviewed in the paper. Maybe more than a literature review is an Antecedents, or it is more than one section.
@@ -68,6 +68,15 @@ Look into Whitley
 Look into Evaluative Inquiry
 
 ### Effects of evaluation on research careers: Some evidences
+
+
+| Critique | Evidences | Reference|
+|----------|-----------|----------|
+|Abuse of JIF in evaluations| Documentation from 129 univs. and 381 academic units in US and Canada | McKiernan et al., 2019|
+|Misalignment between societal needs and research | Desktop research and expert panel workshop | Moher et al., 2018 |
+|Bibliometric indicators pervert scientific enterprise| Policy experience | Benedictus (2016), Edwards (2017)|
+
+Authors like Moher et al. (2018) or Nosek (2015) refer to research integrity, and in the case of the latter, refer to conflict of interest of researchers as they might be interested on publication even if results are not accurate. This would lead to Ioannidis' famous paper on the reproducibility crisis and false results.
 
 Abramo, G., D'Angelo, C. A., & Rosati, F. (2015). The determinants of academic career advancement: Evidence from Italy. Science and Public Policy, 42(6), 761-774. https://doi.org/10.1093/scipol/scu086
 
