@@ -2,9 +2,9 @@
 title: "Unveiling the ecosystem of science: Towards an integrative valuation model of the many roles of scientists"
 author: 
   - name: Nicolas Robinson-Garcia
-    email: elrobinster@gmail.com
+    email: N.Robinson@tudelft.nl
     affiliation: a
-    footnote: Corresponding Author
+    footnote: Corresponding author
   - name: Rodrigo Costas
     affiliation: b
   - name: Thed N. van Leeuwen
@@ -16,14 +16,21 @@ address:
     address: Applied Mathematics (DIAM), TU Delft, Delft, Netherlands
   - code: b
     address: CWTS, Leiden University, Leiden, Netherlands
-abstract: There is an increasing volume of studies, reports and manifestos pointing out that the current scientific reward system misuses and abuses of quantitative indicators, mainly publication and citation-based metrics. Alternatively, more qualitative approaches, use of case studies or the design of indicators more sensitive to societal and scientific needs have been suggested. In this article we analyze the bases of such criticisms and motivations for changing the reward system by focusing on the assessment of individuals. We explore alternative models proposed or in use and identify common characteristics. Based on this we propose a valuation model by which we can systematically organize and prioritize performative aspects of scientists and consider other factors which may affect or might relevant for research policy. We finally test our model in a series of case studies based on six academic units.
+abstract: There is increasing evidence on the misuse and abuse of quantitative indicators in the current scientific reward system. Alternatively, more qualitative approaches, use of case studies or the design of indicators more sensitive to societal and scientific needs have been suggested. In this article we analyze the bases of such criticisms and motivations for changing the reward system by focusing on the assessment of individuals. We explore alternative models proposed or in use and identify common characteristics. Based on this we propose a valuation model by which we can systematically organize and prioritize performative aspects of scientists and consider other factors which may affect or might relevant for research policy. We finally test our model in a series of case studies based on six academic units.
 output: rticles::elsevier_article
 ---
 Introduction and lit review should lead to the model we propose. Hence all aspects of the model should be reviewed in the paper. Maybe more than a literature review is an Antecedents, or it is more than one section.
 
 # 1. Introduction
 
-The ecosystem of science is defined as a system with interconnected entities integrated in a larger social system with which a bidirectional influence is exerted. Scientists, as drivers of the research enterprise, are immersed in an increasingly diverse set of tasks and activities with the purpose of producing, communicating and transferring knowledge to society. This involves a series of skills which go beyond their intellectual or technical capabilities. These additional tasks relate to each of the activities they are involved in: production, communication and transference of new knowledge. They must distribute tasks and specialize, collaborate with their peers, train younger scholars and build research teams to enhance their production capabilities. They must interact and engage with non-academic actors to identify gaps of knowledge, apply their research output on societal challenges and communicate their findings in a responsible and efficient manner.
+The ecosystem of science is defined as a system with interconnected entities integrated in a larger social system with which a bidirectional influence is exerted [@fortunatoScienceScience2018]. Scientists, as drivers of the research enterprise, are immersed in an increasingly diverse set of tasks and activities with the purpose of producing, communicating and transferring knowledge to society. This involves a series of skills which go beyond their intellectual or technical capabilities (e.g., negotiation skills, communication skills, social engagement). Still, academic careers are assessed and rewarded relying solely on individuals' capacity to publish highly cited research articles in highly ranked journals [@mckiernanUseJournalImpact2019; @woutersCitationCultureInfrastructure2014]. This unidimensional view of the research enterprise has been harshely criticized [@doraSanFranciscoDeclaration2014; @hicksLeidenManifestoResearch2015; @wilsdonMetricTideReport2015] due to the prominence bibliometric indicators have gained in research evaluation despite their many technical and conceptual limitations.
+
+But there are more profound and serious effects derived from current research evaluation schemes. First, a focus only on those tasks which are rewarded [@rijckeEvaluationPracticesEffects2016], which can severely damage other tasks. Second, this type of research assessment can lead to an homogeneization of the scientific workforce [@glaserImpactEvaluationbasedFunding2002] as 
+
+idealisation of the excellent scientist [@olmos-penuelaDoesItTake2016]
+
+
+These additional tasks relate to each of the activities they are involved in: production, communication and transference of new knowledge. They must distribute tasks and specialize, collaborate with their peers, train younger scholars and build research teams to enhance their production capabilities. They must interact and engage with non-academic actors to identify gaps of knowledge, apply their research output on societal challenges and communicate their findings in a responsible and efficient manner.
 
 These different activities are rarely undertaken by the same individual. There is distribution of roles, converting research into a collaborative enterprise, where different profiles of researchers emanate from their specialization on specific roles. Furthermore, individuals are involved in different roles depending on their career stage, the characteristics of their research field or the peers with whom they collaborate. While a senior scientist will be involved in PhD supervision, research assistants may undertake data collection tasks. Historians may not focus on knowledge transference as much and civil engineers but might engage on social outreach. A statistician may be giving methodological support when collaborating with physicians but might be involved in theoretical discussions when collaborating with mathematicians. In all, these roles are not fixed and can evolve with time and change due to context.
 
