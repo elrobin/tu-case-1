@@ -4,7 +4,10 @@
  
 1. Research quality: Low quality, overproduction, lack of replication, research integrity, fraud, hypercompetition (less collaboration),
 2. Societal challenges: Not aligned with societal needs but with greater impact within scientific community.
-3. Teaching. Something on students and teaching? For instance, the predatory publishing is a nice add-on
+3. Task reduction:
+
+  - Teaching. Something on students and teaching? For instance, the predatory publishing is a nice add-on.  Also look into academic genealogy (Russell & Sugimoto, 2009; Sugimoto 2014)
+  - Applications and knowledge transfer -> Lewison (2005) looks at alternative and unconventional ways of looking at impact in biomedical sciences. Writing reports and translating to policy makers (Van Dalen & Henkens, 2012, p. 1291)
 4. Transparency. P-hacking, reproducibility, under-reporting of negative results
 5. Poor selection process. Incentivizing malpractices would lead to the 'wrong' type of future scientists needed to ensure scientific progress.
 6. Long-term agendas. Publish or perish culture is short-sighted.
