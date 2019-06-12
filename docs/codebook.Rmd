@@ -25,7 +25,7 @@ bibliography: references.bib
 
 The ecosystem of science is defined as a system with interconnected entities integrated in a larger social system with which a bidirectional influence is exerted [@fortunatoScienceScience2018]. Scientists, as drivers of the research enterprise, are immersed in an increasingly diverse set of tasks and activities with the purpose of producing, communicating and transferring knowledge to society. This involves a series of skills which go beyond their intellectual or technical capabilities (e.g., negotiation skills, communication skills, social engagement). The introduction of national and supranational research evaluation systems [@hicksPerformancebasedUniversityResearch2012] carved the path to introducing measures of assessment in the hope that they would help monitor and maximize such research efforts. While peer review has  traditionally been the main mechanism of quality control [@bornmannScientificPeerReview2011], there has been an increasing use of bibliometric indicators. According to @glaserImpactEvaluationbasedFunding2002, this is due to the fact that,
 
-> "[b]y applying quantitative performance indicators, actors in science can be compared according to their performance more or less independent of peers’ judgments, and science policy can reach conclusions seemingly independent of the scientific community to which an actor belongs" (pp. 29).
+> "[b]y applying quantitative performance indicators, actors in science can be compared according to their performance more or less independent of peers' judgments, and science policy can reach conclusions seemingly independent of the scientific community to which an actor belongs" (pp. 29).
 
 An overemphasis on quantitative  and specifically, bibliometric indicators, has led to a situation in which academic careers are assessed and rewarded relying solely on individuals' capacity to publish highly cited research articles in highly ranked journals [@mckiernanUseJournalImpact2019; @woutersCitationCultureInfrastructure2014]. This unidimensional view of the research enterprise has been harshely criticized [@doraSanFranciscoDeclaration2014; @hicksLeidenManifestoResearch2015; @wilsdonMetricTideReport2015], arguing mostly but not exclusively, on the methodological and conceptual limitations they have when assessing individuals. But there are more profound and serious effects derived from current research evaluation schemes. 
 
@@ -35,24 +35,52 @@ Finally, because a single set of criteria is defined for all scholars, research 
 
 This article proposes an alternative model for evaluating scientists' performance. This approach balances between a conceptually-informed framework and a methodologically viable operationalization. We first provide evidences on the specific aspects that are being negatively affected by research evaluation schemes by reviewing previous empirical work. After reviewing the different proposals made in the literature, we propose a set of five performative dimensions which consider as policy-relevant when conducting research assessment of individuals. A key aspect of the model has to do with the networked nature of scientific work and hence, the heterogeneity of research profiles developed. Hence, how research trajectories develop and understanding how specialization on specific roles might affect such categories is a key point for our model. Also external factors affecting individuals' performance along with effects of evaluation on personal features such as gender, nationality or age, are considered as they can be directly or indirectly affected by research policies and evaluation schemes. The model is  implemented in a multiple-case study of six organisational subunits (i.e., departments, laboratories) from two Dutch universities. This work contributes to existing research on the scientific workforce and research careers in an inefficient evaluative context [@hammarfeltIndicatorsJudgmentDevices2017] which threatens diversity of scientific profiles, and hence of outputs and impacts [@olmos-penuelaDoesItTake2016; @woolley2014REFResults2017].
 
-# 2. Effects of evaluation on research careers
+# 2. Pervasive effects attributed to the scientific reward system
 
-**Claim 2: Publications offer a partial view of researchers' outcomes.**
+Bibliometric indicators were incorporated in research evaluation exercises in the early 1970s [@debellisHistoryEvolutionBiblio2014]. Based on the notion of citation and productivity as predictors of recognition and academic success [@reskinScientificProductivityReward1977; @mertonMatthewEffectScience1968], their use soon expanded to from the United States to Europe through the United Kingdom's first national Research Assessment Exercises in the 1980s [@luukkonenResearchEvaluationEurope2002]. Citation and publication-based indicators were seen as an objective and measurable way in which to assess performativity and impact. Merton's normative framework of recognition built the grounds for the use of citations and proxies for research quality. But it ignored the effects the use of such indicators would have on scientists behavior and consequently, on the production of novel societally relevant scientific knowledge [@benedictusFewerNumbersBetter2016]. Furthermore, scientific communication is drastically transforming due to the emergence of the Open Access movement and the development of social media and research infrastructure (i.e., data banks, repositories). This has also affected the business model behind the publishing industry (e.g., author fees). Hence, it is no longer feasible nor advisable to assess qualitatively research outputs nor rely on journal or journal-derived metrics solely [@ioannidisAssessingValueBiomedical2014].
 
--	What do researchers do?
--	How they organize their time?
--	Which are their outcomes?
+### Effects on the scientific workforce
 
-**Claim 3: Invisible profiles are becoming more necessary than ever but are being kicked out of the system.**
+The first and most obvious unintended effect is  the emergence of the so-called _Publish or Perish_ culture. @dalenIntendedUnintendedConsequences2012 indicate that scientists working in high pressure environments perceive an external pressure to publish, which makes them pay excessive attention only to "tasks that benefit or glorify the individual (publishing internationally, being cited by other scholars)" instead of those "tasks that benefit larger groups" (pp. 1291). This leads to a task reduction [@rijckeEvaluationPracticesEffects2016] that negatively affect other tasks expected from scholars such as teaching, knowledge transfer [@lewisonSCICitationsNew2005] or engagement with societal stakeholders [@dalenIntendedUnintendedConsequences2012; @robinson-garciaUsingAlmetricsContextualised2018].
+
+According to @polanyiRepublicScienceIts2000, academic freedom is mediated by the expectations the community has based on what it considers as scientific merit. As evaluation schemes shape such expectations, scientists goals can deviate from what is considered more relevant or interesting, to what pays off best. By using journal rankings or rewarding high citation rates, evaluation schemes pressure scientists to modify their research agendas as well as their strategies to maximize their efforts. For instance, an emphasis on novelty is a contributing factor for the lack of replication studies, under-reporting of false positives, or testing of prior published results [@nosekScientificUtopiaII2012]. Also, strategic publishing can lead to select topics which are not necessarily societally relevant but that become scientific hypes, hence becoming very profitable in terms of citations [@rousseauHbubble2013].
+
+
+2. Poor selection process. Incentivizing malpractices would lead to the 'wrong' type of future scientists needed to ensure scientific progress.
+
+3. **Claim 3: Invisible profiles are becoming more necessary than ever but are being kicked out of the system.**
 
 -	How do they distribute tasks?
 -	How do they negotiate authorship?
 -	How do they allocate credit and prestige
 -	Supporting evidence: Milojevic et al. PNAS (2018) publication.
 
-# 2. Lit review
+| Critique | Evidences | Reference|
+|----------|-----------|----------|
+|Abuse of JIF in evaluations| Documentation from 129 univs. and 381 academic units in US and Canada | McKiernan et al., 2019|
+|Misalignment between societal needs and research | Desktop research and expert panel workshop | Moher et al., 2018 |
+|Bibliometric indicators pervert scientific enterprise| Policy experience | Benedictus (2016), Edwards (2017)|
 
-## Stratification and diversity of scientific profiles
+
+Abramo, G., D'Angelo, C. A., & Rosati, F. (2015). The determinants of academic career advancement: Evidence from Italy. Science and Public Policy, 42(6), 761-774. https://doi.org/10.1093/scipol/scu086
+
+Luukkonen, T., & Thomas, D. A. (2016). The 'Negotiated Space' of University Researchers' Pursuit of a Research Agenda. Minerva, 54(1), 99-127. https://doi.org/10.1007/s11024-016-9291-z
+
+### Effects on knowledge production
+
+1. Research quality: Low quality, overproduction, lack of replication, research integrity, fraud, hypercompetition (less collaboration),
+
+http://print-cfa.dk/wp-content/uploads/2019/06/ncrm-manchester-2019-jws.pdf
+
+2. Transparency. P-hacking, reproducibility, under-reporting of negative results
+
+Authors like Moher et al. (2018) or Nosek (2015) refer to research integrity, and in the case of the latter, refer to conflict of interest of researchers as they might be interested on publication even if results are not accurate. This would lead to Ioannidis' famous paper on the reproducibility crisis and false results.
+
+3. Societal challenges: Not aligned with societal needs but with greater impact within scientific community.
+
+4. Long-term agendas. Publish or perish culture is short-sighted.
+
+# 3. Evidences on the stratification and diversity of scientific profiles
 
 Examples of dimensions can be given from the book by Bastow, Tinkler & Dunleavy (2014)
 
@@ -69,20 +97,6 @@ Look into Whitley
 
 Look into Evaluative Inquiry
 
-### Effects of evaluation on research careers: Some evidences
-
-
-| Critique | Evidences | Reference|
-|----------|-----------|----------|
-|Abuse of JIF in evaluations| Documentation from 129 univs. and 381 academic units in US and Canada | McKiernan et al., 2019|
-|Misalignment between societal needs and research | Desktop research and expert panel workshop | Moher et al., 2018 |
-|Bibliometric indicators pervert scientific enterprise| Policy experience | Benedictus (2016), Edwards (2017)|
-
-Authors like Moher et al. (2018) or Nosek (2015) refer to research integrity, and in the case of the latter, refer to conflict of interest of researchers as they might be interested on publication even if results are not accurate. This would lead to Ioannidis' famous paper on the reproducibility crisis and false results.
-
-Abramo, G., D'Angelo, C. A., & Rosati, F. (2015). The determinants of academic career advancement: Evidence from Italy. Science and Public Policy, 42(6), 761-774. https://doi.org/10.1093/scipol/scu086
-
-Luukkonen, T., & Thomas, D. A. (2016). The 'Negotiated Space' of University Researchers' Pursuit of a Research Agenda. Minerva, 54(1), 99-127. https://doi.org/10.1007/s11024-016-9291-z
 
 ### Career trajectories
 Stephan & Levin -> In terms of productivity peaks and decline
