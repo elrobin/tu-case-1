@@ -34,6 +34,16 @@
 \IfFileExists{microtype.sty}{\usepackage{microtype}}{}
 \bibliographystyle{elsarticle-harv}
 \usepackage{longtable}
+\usepackage{graphicx}
+% We will generate all images so they have a width \maxwidth. This means
+% that they will get their normal width if they fit onto the page, but
+% are scaled down if they would overflow the margins.
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth
+\else\Gin@nat@width\fi}
+\makeatother
+\let\Oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=\maxwidth]{#1}}
 \ifxetex
   \usepackage[setpagesize=false, % page size defined by xetex
               unicode=false, % unicode breaks when used with xetex
@@ -117,7 +127,7 @@ to the fact that,
 \begin{quote}
 ``{[}b{]}y applying quantitative performance indicators, actors in
 science can be compared according to their performance more or less
-independent of peers' judgments, and science policy can reach
+independent of peersâ judgments, and science policy can reach
 conclusions seemingly independent of the scientific community to which
 an actor belongs'' (pp.~29).
 \end{quote}
@@ -331,7 +341,7 @@ University Researchers' Pursuit of a Research Agenda. Minerva, 54(1),
 Stephan \& Levin -\textgreater{} In terms of productivity peaks and
 decline
 
-Laudel, G., Bielick, J., \& Gläser, J. (2018). `Ultimately the question
+Laudel, G., Bielick, J., \& GlÃ¤ser, J. (2018). `Ultimately the question
 always is: ``What do I have to do to do it right?''\,' Scripts as
 explanatory factors of career decisions. Human Relations,
 0018726718786550. https://doi.org/10.1177/0018726718786550
@@ -346,9 +356,9 @@ table should also be modified and reflect on the aspects valued by each
 of these models.
 
 Interesting the model presented by Boyer (1990) and used in the paper by
-Herman \& Nicholas (2019) published in El profesional de la información.
-Furthermore, should consider the term \emph{facet} instead of referring
-to \emph{dimensions}, it might be more accurate.
+Herman \& Nicholas (2019) published in El profesional de la
+informaciÃ³n. Furthermore, should consider the term \emph{facet} instead
+of referring to \emph{dimensions}, it might be more accurate.
 
 \begin{longtable}[]{@{}llll@{}}
 \toprule
@@ -650,7 +660,7 @@ between LUMC and Leiden University, the high preponderance of biomedical
 literature might also be due to a close relation between these
 universities.
 
-\includegraphics[width=2.97in]{figs/histogram-profiles}
+\includegraphics{figs/histogram-profiles.png}
 
 Six case studies will be selected. Three for each university and two by
 field. The purpose of this is not only to identify differences by
@@ -679,7 +689,7 @@ the one with the highest centrality.
 \hypertarget{tu-delft}{%
 \paragraph{1. TU Delft}\label{tu-delft}}
 
-\includegraphics[width=3.41in]{figs/tu_phys_betweenness}
+\includegraphics{figs/tu_phys_betweenness.png}
 
 \emph{Notes:}
 
@@ -702,7 +712,7 @@ the one with the highest centrality.
 \hypertarget{leiden-univ}{%
 \paragraph{2. Leiden Univ}\label{leiden-univ}}
 
-\includegraphics[width=3.41in]{figs/lu_phys_betweenness}
+\includegraphics{figs/lu_phys_betweenness.png}
 
 \emph{Notes:}
 
@@ -730,7 +740,7 @@ Sciences}\label{biomedical-and-health-sciences}}
 \hypertarget{tu-delft-1}{%
 \paragraph{1. TU Delft}\label{tu-delft-1}}
 
-\includegraphics[width=3.41in]{figs/tu_bio_betweenness}
+\includegraphics{figs/tu_bio_betweenness.png}
 
 \emph{Notes:}
 
@@ -756,7 +766,7 @@ Sciences}\label{biomedical-and-health-sciences}}
 \hypertarget{leiden-univ-1}{%
 \paragraph{2. Leiden Univ}\label{leiden-univ-1}}
 
-\includegraphics[width=3.41in]{figs/lu_bio_betweenness}
+\includegraphics{figs/lu_bio_betweenness.png}
 
 \emph{Notes:}
 
@@ -785,7 +795,7 @@ Humanities}\label{social-sciences-and-humanities}}
 \hypertarget{tu-delft-2}{%
 \paragraph{1. TU Delft}\label{tu-delft-2}}
 
-\includegraphics[width=3.41in]{figs/tu_soc_betweenness}
+\includegraphics{figs/tu_soc_betweenness.png}
 
 \emph{Notes:}
 
@@ -809,7 +819,7 @@ Humanities}\label{social-sciences-and-humanities}}
 \hypertarget{leiden-univ-2}{%
 \paragraph{2. Leiden Univ}\label{leiden-univ-2}}
 
-\includegraphics[width=3.41in]{figs/lu_soc_betweenness}
+\includegraphics{figs/lu_soc_betweenness.png}
 
 \emph{Notes:}
 
